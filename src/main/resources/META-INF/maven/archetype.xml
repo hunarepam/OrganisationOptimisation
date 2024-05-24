@@ -1,0 +1,6 @@
+<archetype>
+  <id>OrganisationOptimosation</id>
+  <sources>
+    <source>src/main/java/com.epam.EmployeeAnalyzer.java</source>
+  </sources>
+</archetype>
