@@ -27,7 +27,7 @@ Handles reading employee data from a CSV file.
 Reads the employee data from a specified CSV file and returns a list of `Employee` objects.
 
 ### `OrganisationOptimisationService`
-Provides methods to analyze and optimize the organization’s hierarchy.
+Provides methods to analyze and optimize the organization’s hierarchy. This class has been implemented in such way to have ability for future extension and reuse for other needs.
 
 #### `Map<Integer, List<Employee>> buildSubordinatesMap(List<Employee> employees)`
 Creates a map of manager IDs to their respective subordinates.
